@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Software Engineering\\General Coding\\C#\\Calc\\Calc.csproj",
-      "projectName": "Calc",
-      "projectPath": "D:\\Software Engineering\\General Coding\\C#\\Calc\\Calc.csproj",
+      "projectUniqueName": "D:\\Software Engineering\\General Coding\\.NET\\C#\\FE\\FE\\FE.csproj",
+      "projectName": "FE",
+      "projectPath": "D:\\Software Engineering\\General Coding\\.NET\\C#\\FE\\FE\\FE.csproj",
       "packagesPath": "C:\\Users\\angga\\.nuget\\packages\\",
-      "outputPath": "D:\\Software Engineering\\General Coding\\C#\\Calc\\obj\\",
+      "outputPath": "D:\\Software Engineering\\General Coding\\.NET\\C#\\FE\\FE\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\angga\\AppData\\Roaming\\NuGet\\NuGet.Config"

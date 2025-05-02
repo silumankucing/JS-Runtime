@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Software Engineering\\General Coding\\C#\\Calc\\Calc.csproj": {}
+    "D:\\Software Engineering\\General Coding\\.NET\\C#\\FE\\FE\\FE.csproj": {}
   },
   "projects": {
-    "d:\\Software Engineering\\General Coding\\C#\\Calc\\Calc.csproj": {
+    "D:\\Software Engineering\\General Coding\\.NET\\C#\\FE\\FE\\FE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Software Engineering\\General Coding\\C#\\Calc\\Calc.csproj",
-        "projectName": "Calc",
-        "projectPath": "d:\\Software Engineering\\General Coding\\C#\\Calc\\Calc.csproj",
+        "projectUniqueName": "D:\\Software Engineering\\General Coding\\.NET\\C#\\FE\\FE\\FE.csproj",
+        "projectName": "FE",
+        "projectPath": "D:\\Software Engineering\\General Coding\\.NET\\C#\\FE\\FE\\FE.csproj",
         "packagesPath": "C:\\Users\\angga\\.nuget\\packages\\",
-        "outputPath": "d:\\Software Engineering\\General Coding\\C#\\Calc\\obj\\",
+        "outputPath": "D:\\Software Engineering\\General Coding\\.NET\\C#\\FE\\FE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\angga\\AppData\\Roaming\\NuGet\\NuGet.Config"
