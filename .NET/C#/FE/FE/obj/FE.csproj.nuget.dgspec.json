@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Software Engineering\\General Coding\\.NET\\C#\\FE\\FE\\FE.csproj": {}
+    "d:\\Software Engineering\\General Coding\\.NET\\C#\\FE\\FE\\FE.csproj": {}
   },
   "projects": {
-    "D:\\Software Engineering\\General Coding\\.NET\\C#\\FE\\FE\\FE.csproj": {
+    "d:\\Software Engineering\\General Coding\\.NET\\C#\\FE\\FE\\FE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Software Engineering\\General Coding\\.NET\\C#\\FE\\FE\\FE.csproj",
+        "projectUniqueName": "d:\\Software Engineering\\General Coding\\.NET\\C#\\FE\\FE\\FE.csproj",
         "projectName": "FE",
-        "projectPath": "D:\\Software Engineering\\General Coding\\.NET\\C#\\FE\\FE\\FE.csproj",
+        "projectPath": "d:\\Software Engineering\\General Coding\\.NET\\C#\\FE\\FE\\FE.csproj",
         "packagesPath": "C:\\Users\\angga\\.nuget\\packages\\",
-        "outputPath": "D:\\Software Engineering\\General Coding\\.NET\\C#\\FE\\FE\\obj\\",
+        "outputPath": "d:\\Software Engineering\\General Coding\\.NET\\C#\\FE\\FE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\angga\\AppData\\Roaming\\NuGet\\NuGet.Config"

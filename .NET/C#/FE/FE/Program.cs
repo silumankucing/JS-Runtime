@@ -16,7 +16,7 @@ public class Node
 
 public class Element
 {
-    public List<int> NodeIndices { get; set; } 
+    public List<int> NodeIndices { get; set; }
 
     public Element(params int[] nodeIndices)
     {
@@ -55,9 +55,19 @@ public class Solver
         _mesh = mesh;
     }
 
-    public void Solve()
+    public double[,] Solve()
     {
-        Console.WriteLine("Solution complete.");
+        // Simplified example - Replace with actual FEA calculations
+        int numNodes = _mesh.Nodes.Count;
+        double[,] stiffnessMatrix = new double[numNodes, numNodes];
+
+        // Sample values (replace with actual calculations)
+        stiffnessMatrix[0, 0] = 2;
+        stiffnessMatrix[0, 1] = -1;
+        stiffnessMatrix[1, 0] = -1;
+        stiffnessMatrix[1, 1] = 2;
+
+        return stiffnessMatrix;
     }
 }
 
@@ -65,19 +75,27 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        // Create a simple mesh
+        // Create a simple mesh (example: 2 nodes, 1 element)
         Mesh mesh = new Mesh();
-
         mesh.AddNode(new Node(0, 0));
         mesh.AddNode(new Node(1, 0));
-        mesh.AddNode(new Node(1, 1));
-        mesh.AddNode(new Node(0, 1));
+        mesh.AddElement(new Element(0, 1));
 
-        mesh.AddElement(new Element(0, 1, 2)); 
-        mesh.AddElement(new Element(0, 2, 3)); 
-
-        // Create and run the solver
+        // Solve the problem
         Solver solver = new Solver(mesh);
-        solver.Solve();
+        double[,] stiffnessMatrix = solver.Solve();
+
+        // Print the stiffness matrix
+        Console.WriteLine("Stiffness Matrix:");
+        for (int i = 0; i < stiffnessMatrix.GetLength(0); i++)
+        {
+            for (int j = 0; j < stiffnessMatrix.GetLength(1); j++)
+            {
+                Console.Write(stiffnessMatrix[i, j] + " ");
+            }
+            Console.WriteLine();
+        }
+
+        Console.ReadLine();
     }
 }
