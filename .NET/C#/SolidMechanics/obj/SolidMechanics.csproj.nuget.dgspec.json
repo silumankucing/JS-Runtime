@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Software Engineering\\General Coding\\.NET\\C#\\FE\\FE\\FE.csproj": {}
+    "D:\\Software Engineering\\General Coding\\.NET\\SolidMechanics\\SolidMechanics.csproj": {}
   },
   "projects": {
-    "d:\\Software Engineering\\General Coding\\.NET\\C#\\FE\\FE\\FE.csproj": {
+    "D:\\Software Engineering\\General Coding\\.NET\\SolidMechanics\\SolidMechanics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Software Engineering\\General Coding\\.NET\\C#\\FE\\FE\\FE.csproj",
-        "projectName": "FE",
-        "projectPath": "d:\\Software Engineering\\General Coding\\.NET\\C#\\FE\\FE\\FE.csproj",
+        "projectUniqueName": "D:\\Software Engineering\\General Coding\\.NET\\SolidMechanics\\SolidMechanics.csproj",
+        "projectName": "SolidMechanics",
+        "projectPath": "D:\\Software Engineering\\General Coding\\.NET\\SolidMechanics\\SolidMechanics.csproj",
         "packagesPath": "C:\\Users\\angga\\.nuget\\packages\\",
-        "outputPath": "d:\\Software Engineering\\General Coding\\.NET\\C#\\FE\\FE\\obj\\",
+        "outputPath": "D:\\Software Engineering\\General Coding\\.NET\\SolidMechanics\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\angga\\AppData\\Roaming\\NuGet\\NuGet.Config"
