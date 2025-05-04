@@ -1,0 +1,5 @@
+D:\Software Engineering\General Coding\.NET\C#\IO\obj\Debug\net9.0\IO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software Engineering\General Coding\.NET\C#\IO\obj\Debug\net9.0\IO.AssemblyInfoInputs.cache
+D:\Software Engineering\General Coding\.NET\C#\IO\obj\Debug\net9.0\IO.AssemblyInfo.cs
+D:\Software Engineering\General Coding\.NET\C#\IO\obj\Debug\net9.0\IO.csproj.CoreCompileInputs.cache
+D:\Software Engineering\General Coding\.NET\C#\IO\obj\Debug\net9.0\IO.sourcelink.json

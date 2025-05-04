@@ -1,6 +1,4 @@
-﻿// kurokuro
-
-let printMessage name =
+﻿let printMessage name =
     printfn $"Hello there, {name}!"
 
 let printNames names =
@@ -8,6 +6,5 @@ let printNames names =
         printMessage name
 
 let names = [ "Ana"; "Felipe"; "Emillia" ]
-printNames names
 
-//----------------------------------------------------------
+printNames names
