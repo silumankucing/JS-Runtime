@@ -1,5 +1,0 @@
-D:\Software Engineering\General Coding\FSharp\NeuralNetworks\obj\Debug\net9.0\NeuralNetworks.fsproj.AssemblyReference.cache
-D:\Software Engineering\General Coding\FSharp\NeuralNetworks\obj\Debug\net9.0\NeuralNetworks.AssemblyInfoInputs.cache
-D:\Software Engineering\General Coding\FSharp\NeuralNetworks\obj\Debug\net9.0\NeuralNetworks.AssemblyInfo.fs
-D:\Software Engineering\General Coding\FSharp\NeuralNetworks\obj\Debug\net9.0\NeuralNetworks.fsproj.CoreCompileInputs.cache
-D:\Software Engineering\General Coding\FSharp\NeuralNetworks\obj\Debug\net9.0\NeuralNetworks.sourcelink.json
